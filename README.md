@@ -1,7 +1,5 @@
 ## 👩🏻‍💻 Sara Raquel
 
-**`Desenvolvedora Mobile`**
-
 Me chamo Sara Raquel, tenho 20 anos e sou natural do Piauí. Atualmente estou cursando bacharelado em Sistemas de Informação na UFPI. 
 
 ---
