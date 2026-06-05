@@ -14,6 +14,7 @@ Me chamo Sara Raquel, tenho 20 anos e sou natural do Piauí. Atualmente estou cu
 ### 💌 Contanto
  <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/sara.rqll/?hl=en" alt="Instagram"/></a>
+  
 ### 📊 Estatísticas
 
 <p>
